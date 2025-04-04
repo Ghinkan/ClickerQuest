@@ -1,17 +1,36 @@
-# ClickerQuest
-Code for an RPG Clicker developed in unity you can try it here: https://ghinkan.itch.io/clicker-quest
+# 🗡️ ClickerQuest
 
-![Battle](https://github.com/user-attachments/assets/4d4d909e-2427-4a9e-8251-ab38a2b9c115)
+**ClickerQuest** is a fantasy-themed **RPG Clicker** game developed in Unity.  
+Play it now on [**Itch.io**](https://ghinkan.itch.io/clicker-quest)
 
-Venture into the cave and face the danger!
+![Battle Screenshot](https://github.com/user-attachments/assets/4d4d909e-2427-4a9e-8251-ab38a2b9c115)
 
-In  ClickerQuest, lead a brave group of heroes on an epic adventure deep within a dark cave filled with enemies. This fantasy-themed clicker game challenges you to defeat hordes of monsters while keeping your heroes alive.
+> Venture into the cave and face the danger!
 
+Lead a group of brave heroes into the depths of a dark and dangerous cave. In this fast-paced clicker RPG, you’ll battle hordes of enemies, manage your team’s health, and unlock powerful upgrades to push ever deeper into the unknown.
 
-Key Features:
+---
 
-Clicker Action: Frenetically click on enemies to deal damage and wipe out the dark invaders. Don’t let them survive!
-Healing Strategy: Your heroes need your clicks to stay on their feet. Click on them to heal their wounds and ensure they’re ready for the next battle.
-Special Abilities: Each hero has a unique ability that can turn the tide of battle. Use them wisely to overcome the toughest challenges.
-Progression and Upgrades: When your heroes fall, return to the shop and use the rewards you’ve earned to boost their stats. Each upgrade brings you closer to victory!
-Final Challenge: Prepare to face the fearsome boss, Bringer of Death, in an epic showdown that will test all your skills.
+## ⚔️ Key Features
+
+- **Clicker Combat:**  
+  Deal damage by frantically clicking on enemies. Defeat waves of monsters and don’t let any escape!
+
+- **Hero Healing:**  
+  Your heroes rely on your clicks not only to fight, but also to survive. Click on them to heal and keep them in battle.
+
+- **Unique Abilities:**  
+  Each hero has a powerful special ability. Activate them strategically to turn the tide of battle.
+
+- **Progression & Upgrades:**  
+  Earn rewards from your runs and spend them in the shop to improve your team’s stats. Each upgrade brings you closer to triumph.
+
+- **Epic Final Boss:**  
+  Face off against the fearsome **Bringer of Death** in a climactic showdown.
+
+---
+
+## 🛠️ Development
+
+ClickerQuest was developed as a personal project to explore game design, UI, and gameplay flow within Unity.  
+All code is available in this repository, and the game is fully playable in browser via Itch.io.
